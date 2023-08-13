@@ -1,4 +1,7 @@
 # ExcelClone
+
+Have fun at https://paras151.github.io/ExcelClone/
+
 Clone of Excel/Sheets to create sheets, a tool to store data in cells, apply formulaes and also import and export excel sheets.
 
 # Features
@@ -8,7 +11,7 @@ Clone of Excel/Sheets to create sheets, a tool to store data in cells, apply for
 4. Import and export excel sheets
 
 # Learnings
-1. Electron.js
+1. DOM Manipulation
 2. Node.js File system module
 3. Internal working of excel
 
@@ -16,4 +19,4 @@ Clone of Excel/Sheets to create sheets, a tool to store data in cells, apply for
 1. HTML
 2. CSS
 3. Javascript
-4. Electron.js
+4. Node.js
